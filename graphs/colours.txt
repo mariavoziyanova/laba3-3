@@ -1,0 +1,6 @@
+aqua darkviolet aquamarine deeppink2 darkgoldenrod1
+blue blueviolet cadetblue1
+brown4 cadetblue cadetblue2 chartreuse2
+chartreuse4 chocolate1 coral1  aquamarine4
+coral4  cornflowerblue cyan3  cyan4  darkblue  darkcyan
+darkgoldenrod  darkgoldenrod1  darkgoldenrod2  darkgoldenrod3
